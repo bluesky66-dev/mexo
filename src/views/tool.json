@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title" : "Collaborate Robot",
+        "summary" : "This is to work alongside humans, increaing automation and productivity. Learn how to and why robot could impact our business",
+        "url" : "media/images/tool-image1.png"
+    },
+    {
+        "id": 2,
+        "title" : "Collaborate Robot",
+        "summary" : "This is to work alongside humans, increaing automation and productivity. Learn how to and why robot could impact our business",
+        "url" : "media/images/tool-image2.png"
+    },
+    {
+        "id": 3,
+        "title" : "Collaborate Robot",
+        "summary" : "This is to work alongside humans, increaing automation and productivity. Learn how to and why robot could impact our business",
+        "url" : "media/images/tool-image3.png"
+    },
+    {
+        "id": 4,
+        "title" : "Collaborate Robot",
+        "summary" : "This is to work alongside humans, increaing automation and productivity. Learn how to and why robot could impact our business",
+        "url" : "media/images/tool-image4.png"
+    }
+]

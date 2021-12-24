@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "date" : "22 Sep 2021",
+        "category" : "Robot Tech",
+        "title" : "Collaborate Robot",
+        "summary" : "This is to work alongside humans, increaing automation and productivity. Learn how to and why robot could impact our business",
+        "url" : "media/images/palletizing robot arm.jpeg"
+    },
+    {
+        "id": 2,
+        "date" : "22 Sep 2021",
+        "category" : "Robot Tech",
+        "title" : "Collaborate Robot",
+        "summary" : "This is to work alongside humans, increaing automation and productivity. Learn how to and why robot could impact our business",
+        "url" : "media/images/construction-robot_1.jpg"
+    },
+    {
+        "id": 3,
+        "date" : "22 Sep 2021",
+        "category" : "Robot Tech",
+        "title" : "Collaborate Robot",
+        "summary" : "This is to work alongside humans, increaing automation and productivity. Learn how to and why robot could impact our business",
+        "url" : "media/images/painting-robot.jpg"
+    }
+]
